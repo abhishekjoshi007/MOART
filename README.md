@@ -3,12 +3,14 @@
  negotiating terms, executing agreements and getting paid.
  
  Features:
-# 1-4 Content Pages
+# 1- 4 Content Pages
 Home Page
+
 About Page [Full Screen Split 3D Carousel Integrated]
+
 Benifit [Slick Carousel Slider Integrated]
 3 step Method
-# 2-fullPage.js [Fullscreen Scrolling Sections]
+# 2- fullPage.js [Fullscreen Scrolling Sections]
 3 Columns
 jQuery Countdown
 Text Rotator
